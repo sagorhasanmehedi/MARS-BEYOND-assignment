@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+  background-color: black;
+  padding: 50px;
+}
+.header h1 {
+  font-size: 63px;
+  color: white;
+  margin-bottom: 19px;
+}
+.header h4 {
+  color: rgb(168, 165, 165);
+  font-size: 17px;
+  font-weight: normal;
+}

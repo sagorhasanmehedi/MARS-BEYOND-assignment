@@ -1,0 +1,101 @@
+[
+    [
+        {
+          "name": "Bhavesh Phondekar",
+          "img": "https://i.pinimg.com/736x/24/97/31/249731c1b301ebc197a001c6ac5d4002.jpg",
+          "Nationality": "American",
+          "Occupation": "Army aviator",
+          "salary": 2200000,
+          "age": 50
+        },
+        {
+          "name": "Sally Ride ",
+          "img": "https://www.nasa.gov/sites/default/files/thumbnails/image/astronaut_.jpg",
+          "Nationality": "American",
+          "Occupation": "formal astronut",
+          "salary": 1200000,
+          "age": 51
+        },
+        {
+          "name": "Takao Doi",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ellison_Shoji_Onizuka_%28NASA%29.jpg",
+          "Nationality": "Japanese",
+          "Occupation": "Engineer",
+          "salary": 3200000,
+          "age": 43
+        },
+        {
+          "name": "Tim Kopra",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Leland_Melvin_%28JSC2007-E-36047%29.jpg",
+          "Nationality": "American",
+          "Occupation": "NASA Astronaut",
+          "salary": 300000,
+          "age": 56
+        },
+        {
+          "name": "Timothy",
+          "img": "https://techcrunch.com/wp-content/uploads/2018/08/Screen-Shot-2018-08-03-at-10.26.37-AM.png",
+          "Nationality": "Austin",
+          "Occupation": "formal astronut",
+          "salary": 420000,
+          "age": 48
+        },
+        {
+          "name": "Valentina Tereshkova",
+          "img": "https://rocket-women.com/wp-content/uploads/2018/02/Alyssa-in-Sim.jpg",
+          "Nationality": "Russian",
+          "Occupation": "Pilot",
+          "salary": 350000,
+          "age": 23
+        },
+        {
+          "name": "Yang Liwei",
+          "img": "https://ids.si.edu/ids/deliveryService?id=NPG-NPG_78_TC396Gagarin-000002",
+          "Nationality": "Chinese",
+          "Occupation": "Manned Space Engineering",
+          "salary": 230000,
+          "age": 43
+        },
+        {
+          "name": "Elliot See",
+          "img": "http://www.ecns.cn/hd/2021/04/12/de64a8787a5244e59624719a34bb74da.jpg",
+          "Nationality": "UAE",
+          "Occupation": "Test pilot,",
+          "salary": 240000,
+          "age": 31
+        },
+        {
+          "name": "Judith Resnik",
+          "img": "https://www.nasa.gov/sites/default/files/thumbnails/image/jsc2019e051810.jpg",
+          "Nationality": "Czechoslovak",
+          "Occupation": "pilot",
+          "salary": 5000000,
+          "age": 44
+        },
+        
+        {
+          "name": "Barron",
+          "img": "https://cdn.britannica.com/48/69048-050-5156DE5A/Guion-S-Bluford-Jr-1992.jpg",
+          "Nationality": "Czechoslovak",
+          "Occupation": "pilot, cosmonaut",
+          "salary": 4000000,
+          "age": 65
+        },
+        {
+          "name": " Remek",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/John_Glenn_Portrait_%28cropped%29.jpg",
+          "Nationality": "Czechoslovak",
+          "Occupation": "pilot",
+          "salary": 5000000,
+          "age": 60
+        },
+        {
+          "name": "Vladimír ",
+          "img": "https://www.nasa.gov/images/content/380087main_jsc2009e082549.jpg",
+          "Nationality": "USA",
+          "Occupation": " cosmonaut",
+          "salary": 9000000,
+          "age": 77
+        }
+      ]
+]
