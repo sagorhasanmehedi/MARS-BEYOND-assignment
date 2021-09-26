@@ -5,3 +5,4 @@ This project was bootstrapped with [assignment-8](https://assignment-8-react.net
 
 <li>total buget: 700 BILLION</li>
 <li>carrier rocket: molniya</li>
+<li>mission type: flyby</li>
