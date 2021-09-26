@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://assignment-8-react.netlify.app/).
+This project was bootstrapped with [MARSE & BEYOND](https://assignment-8-react.netlify.app/).
 
 ## Available Scripts
 
