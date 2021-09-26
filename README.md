@@ -1,5 +1,6 @@
-# MARSE & BEYOND
+# MARS & BEYOND
 
 This project was bootstrapped with [assignment-8](https://assignment-8-react.netlify.app/).
 
-<li>mission: MARSE<li/>
+<li>missions: MARS<li/>
+<li>total buget: 700 BILLION</li>
