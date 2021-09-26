@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { setlocal } from "../../utilites/Utilites";
 import LeftSide from "../LeftSide/LeftSide";
-import RightSide from "../../RightSide/RightSide";
+import RightSide from "../RightSide/RightSide";
 import "./Main.css";
 const Main = () => {
   // state for api
