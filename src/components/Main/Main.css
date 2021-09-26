@@ -1,9 +1,5 @@
 .mainsection {
   display: grid;
   grid-template-columns: 11fr 2fr;
-  margin: 30px 30px;
+  margin: 35px 38px;
 }
-/* .rightSide {
-  border: 1px solid lightgrey;
-  background-color: lightpink;
-} */

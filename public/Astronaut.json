@@ -70,13 +70,13 @@
           "Nationality": "Czechoslovak",
           "Occupation": "pilot",
           "salary": 5000000,
-          "age": 44
+          "age": 41
         },
         
         {
           "name": "Barron",
           "img": "https://cdn.britannica.com/48/69048-050-5156DE5A/Guion-S-Bluford-Jr-1992.jpg",
-          "Nationality": "Czechoslovak",
+          "Nationality": "American",
           "Occupation": "pilot, cosmonaut",
           "salary": 4000000,
           "age": 65
@@ -84,7 +84,7 @@
         {
           "name": " Remek",
           "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/John_Glenn_Portrait_%28cropped%29.jpg",
-          "Nationality": "Czechoslovak",
+          "Nationality": "Russian",
           "Occupation": "pilot",
           "salary": 5000000,
           "age": 60

@@ -4,20 +4,23 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSpaceShuttle } from "@fortawesome/free-solid-svg-icons";
 
 const LeftSide = (props) => {
+  // font awesome icon
   const element = (
     <FontAwesomeIcon style={{ marginRight: "8px" }} icon={faSpaceShuttle} />
   );
-
+  // destructor from props
   const { name, img, age, Occupation, Nationality, salary } = props.alldata;
-  console.log(img);
   return (
-    <div class="card  col-md-4 m-2 shadow-sm " style={{ maxWidth: "500px" }}>
+    <div
+      class="card  col-md-4 m-4 shadow-sm ps-0 "
+      style={{ maxWidth: "450px" }}
+    >
       <div class="row g-0">
         <div class="col-md-4">
           <img src={img} class="img-fluid rounded-start" alt="..." />
         </div>
         <div class="col-md-8">
-          <div class="card-body ms-2">
+          <div class="card-body ms-4 ">
             <h5 class="card-title">{name}</h5>
             <h6>Occupation: {Occupation}</h6>
             <h6>age: {age}</h6>
