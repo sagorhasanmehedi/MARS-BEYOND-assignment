@@ -13,7 +13,7 @@ const RightSide = (props) => {
       <h3>Total addede: {ButtonData.length}</h3>
       <h5>Total cost: ${salarySum}</h5>
       {ButtonData.map((arr) => (
-        <li>{arr.name}</li>
+        <li key={arr.name}>{arr.name}</li>
       ))}
     </div>
   );

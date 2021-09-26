@@ -8,6 +8,7 @@ const Main = () => {
   const [data, setdata] = useState([]);
   // state for button onclick
   const [clickData, setclickData] = useState([]);
+  // console.log(clickData);
   useEffect(() => {
     fetch("Astronaut.json")
       .then((res) => res.json())
