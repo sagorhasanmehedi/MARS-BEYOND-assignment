@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div className="header ">
       <h1>
-        MARS <span id="headerSpan">&</span> BEYON
+        MARS <span id="headerSpan">&</span> BEYOND
       </h1>
       <h4>THE ROAD TO STUDY THE HUMAN BODY IN SPACE</h4>
       <h4>
